@@ -4,8 +4,10 @@ This repository is a list of automation tools for AutoCad.
 Tools List & Descriptions:
 
 DOP - Draw orthogonal cable, select a few points along a line, doesnt matter how perfectly you select them as it will always draw poly-lines at 90° angles of each other.
-LPL  - Layer poly-Llne length, finds the cumulative leangth of all poly-lines in a slected layer.
-MLF - Multi line fillet, select a line made up by connected polylines, select the angle and all the edges will be filleted with that angle
+
+LPL - Layer poly-Llne length, finds the cumulative leangth of all poly-lines in a slected layer.
+
+MLF - Multi line fillet, select a line made up by connected polylines, select the angle and all the edges will be filleted with that angle.
 
 ----- How to Add -----
 
